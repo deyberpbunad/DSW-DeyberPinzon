@@ -3,5 +3,9 @@ Programa: Ingenieria de sitemas
 fecha 8 septiembre de 2020
 telefono y WhatsApp: 3219145294
 Skype: deyberpinzonbernal
-correo: deyberpb@gmail.com
+correo: deyberpb@gmail.com<br><br>
+
+Para ingreso a planing Hacer<a href="planing.html" target="BLANK">click aqui</a> <br>
+
+
 
