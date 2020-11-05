@@ -1,6 +1,120 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;	
+}
+ body {
+ 	background: #F0FFF0;
+ }
+
+p{
+	color: #696969;
+	font-size: 100%;
+	line-height: 100%;
+	padding: 1%;
+	text-indent: 2%;
+	text-align: justify;
+}
+
+h3{
+	font-size: 150%;
+	line-height: 50%;
+	font-weight: 500;
+	color: #524c56;
+	text-align: left;
+	text-transform: uppercase;
+	padding: 1%;
+}
+
+.box{
+	background: #F47920;
+	width: 500;
+	height: 100; 
+}
+i{
+	font-size: 150%;
+	line-height: 155%;
+	font-weight: 500;
+	color: #524c56;
+	text-align: center;
+	padding: 0;
+}
+
+
+h2{
+	background: #F778899;
+	font-size: 150%;
+	line-height: 155%;
+	font-weight: 500;
+	color: #F47920;
+	text-align: center;
+	padding: 0;
+}
+h4{
+	font-size: 150%;
+	line-height: 155%;
+	font-weight: 500;
+	color: #524c56;
+	text-align: left;
+	padding: 0;
+}
 aside{
 	display: inline-block;
 	width: 300px;
-	main height: 500px;
-	background:#9999FF;	
+	main height: 750px;
+	background:#9999FF;
+	}	
+header  {
+	width:  50%;	
+	height: 250px;
+}
+}
+
+header #logo img {
+	margin: 20px;
+	float: left;
+	width: 300px;
+}
+.navega{
+		width: 700px;
+		margin: 0px auto;
+		background: #F0FFF0;
+
+
+}
+.navega ul {
+	list-style: none;
+}
+.menu > li {
+	position: relative;
+	display: inline-block;
+}
+.menu > li > a {
+		display: block;
+		padding: 15px 20px;
+		color: #353535
+		font-family:'open sans';
+		text-decoration: none;
+
+}
+.menu li a:hover{
+	color: #CE7D35;
+	transition: all .3;
+}
+
+.submenu{
+position: absolute;
+background: #333333;
+width: 120%;
+S
+} 
+.submenu li a{
+	display: block;
+	padding: 15px;
+	color: #fff;
+	font-family: 'open sans';
+	text-decoration: none;
+}
+.menu li:hover .submenu{
+	display: block;
 }
